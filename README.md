@@ -1,6 +1,6 @@
-# Apple Keyboard On Linux
+# Apple keyboard on Linux
 
-**Fix Mapping for Linux**
+**Fix mapping for Linux**
 
 Apple Keyboard (A1243) USB Aluminium
 Azerty French
