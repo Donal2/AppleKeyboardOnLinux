@@ -5,7 +5,7 @@
 Apple Keyboard (A1243) USB Aluminium
 Azerty French
 
-### After Booting X :
+### After Boot X :
 
 ` setxkbmap -variant mac -option apple:badmap fr `
 
