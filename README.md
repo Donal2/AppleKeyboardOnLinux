@@ -21,9 +21,8 @@ XKBOPTIONS="apple:badmap"
 BACKSPACE="guess"
  ````
  
-` update-initramfs -u `
+` update-initramfs -u `  
 
-\
 ### Windows Solution :
 
 https://archive.phocean.net/tools/french-apple-macbook-keyboard-layout-for-windows.html
