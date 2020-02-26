@@ -25,4 +25,5 @@ BACKSPACE="guess"
 
 ## Windows Solution :
 
+#### French keyboard
 https://archive.phocean.net/tools/french-apple-macbook-keyboard-layout-for-windows.html
