@@ -23,7 +23,6 @@ BACKSPACE="guess"
  
 ` update-initramfs -u `
 
-\
 ## Windows Solution :
 
 https://archive.phocean.net/tools/french-apple-macbook-keyboard-layout-for-windows.html
