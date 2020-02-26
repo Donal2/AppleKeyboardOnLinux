@@ -1,4 +1,4 @@
-# AppleKeyboardOnLinux
+# Apple Keyboard On Linux
 
 Fix Mapping for Linux
 
