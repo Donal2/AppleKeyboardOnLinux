@@ -7,19 +7,18 @@ Azerty French
 
 ### After Boot :
 
-`setxkbmap -variant mac -option apple:badmap fr`
+` setxkbmap -variant mac -option apple:badmap fr  `
 
 ### On Boot :
 
-`nano /etc/default/keyboard`
+` nano /etc/default/keyboard  `
 
 ````
-  XKBMODEL=""
- XKBLAYOUT="fr"
- XKBVARIANT="mac"
- XKBOPTIONS="apple:badmap"
- BACKSPACE="guess"
+// XKBMODEL=""
+// XKBLAYOUT="fr"
+// XKBVARIANT="mac"
+// XKBOPTIONS="apple:badmap"
+// BACKSPACE="guess"
  ````
 
-
-update-initramfs -u
+` update-initramfs -u `
