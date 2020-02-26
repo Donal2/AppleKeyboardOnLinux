@@ -20,5 +20,5 @@ XKBVARIANT="mac"
 XKBOPTIONS="apple:badmap"
 BACKSPACE="guess"
  ````
-\
+ 
 ` update-initramfs -u `
