@@ -13,10 +13,10 @@ setxkbmap -variant mac -option apple:badmap fr
 
 nano /etc/default/keyboard
 
->XKBMODEL=""\
->XKBLAYOUT="fr"\
->XKBVARIANT="mac"\
->XKBOPTIONS="apple:badmap"\
->BACKSPACE="guess"\
+  XKBMODEL=""
+  XKBLAYOUT="fr"
+  XKBVARIANT="mac"
+  XKBOPTIONS="apple:badmap"
+  BACKSPACE="guess"
 
 update-initramfs -u
